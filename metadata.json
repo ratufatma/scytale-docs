@@ -1,6 +1,0 @@
-{
-  "name": "Scytale Devnet Docs",
-  "description": "Dokumentasi developer resmi untuk blockchain Layer-1 Scytale berbasis VitePress.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
